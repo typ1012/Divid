@@ -6,6 +6,6 @@
 
 ## Updates
 
-- [ ] Weights
-- [ ] Tests
-- [ ] Training Data
+- [ ] Release Divid checkpoints
+- [ ] Release evaluation code
+- [ ] Release training data
